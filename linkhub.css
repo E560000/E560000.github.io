@@ -37,6 +37,10 @@ a {
   color: rgb(255, 255, 255); 
 /*    read above comments*/
 }
+.size7black {
+    font-size: 2em;
+  color: black
+}
 .centerdiv {
   width: 70%;
   margin: auto;
