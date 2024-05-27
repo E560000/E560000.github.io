@@ -41,6 +41,10 @@ a {
     font-size: 2em;
   color: black
 }
+.lrg {
+    font-size: large;
+    color: black
+}
 .centerdiv {
   width: 70%;
   margin: auto;
