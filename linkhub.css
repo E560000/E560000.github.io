@@ -45,7 +45,7 @@ a {
     font-size: large;
     color: rgb(255, 255, 255)
 }
-.lrg li a {color:white!important;}
+.lrg p a {color:white!important;}
 .centerdiv {
   width: 70%;
   margin: auto;
