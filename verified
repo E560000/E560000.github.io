@@ -10,9 +10,8 @@
 </head>
 
 <body>
-
+   <form>
     <h1>Yellow Car Survey</h1>
-    <form action="mailto:your-email@example.com" method="post" enctype="text/plain">
         <label for="reason">Why did you pick a yellow car?</label><br>
         <input type="text" id="reason" name="reason" required><br><br>
         
