@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yellow Car Survey</title>
+</head>
+
+<body>
+
+    <h1>Yellow Car Survey</h1>
+    <form action="mailto:your-email@example.com" method="post" enctype="text/plain">
+        <label for="reason">Why did you pick a yellow car?</label><br>
+        <input type="text" id="reason" name="reason" required><br><br>
+        
+        <label for="awareness">Are you aware of the "yellow car" game?</label><br>
+        <select id="awareness" name="awareness" required>
+            <option value="">Select one</option>
+            <option value="Yes">Yes</option>
+            <option value="No">No</option>
+        </select><br><br>
+        
+        <input type="submit" value="Submit">
+    </form>
+</body>
+
+</html>
